@@ -9,7 +9,7 @@ Ultrasenses theme
 
 ## 🗃️ Version 1.0.0 contains
 
-- colors
+- color
 - typography
 - media
 

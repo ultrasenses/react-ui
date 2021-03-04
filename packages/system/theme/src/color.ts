@@ -1,4 +1,4 @@
-export const colors = {
+export const color = {
   systemDefaultLight: {
     systemBlue: "#007aff",
     systemGreen: "#34c759",
