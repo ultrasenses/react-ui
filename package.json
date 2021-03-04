@@ -36,8 +36,9 @@
     "@storybook/addons": "^6.1.18",
     "@storybook/react": "^6.1.18",
     "@types/styled-components": "^5.1.7",
-    "@ultrasenses/configs-eslint": "^1.0.0",
-    "@ultrasenses/configs-typescript": "^1.0.0",
+    "@ultrasenses/configs-eslint": "^1.0.1",
+    "@ultrasenses/configs-prettier": "^1.0.1",
+    "@ultrasenses/configs-typescript": "^1.0.1",
     "copyfiles": "^2.4.1",
     "eslint": "^7.20.0",
     "lerna": "^3.22.1",
@@ -47,7 +48,8 @@
   },
   "eslintConfig": {
     "extends": [
-      "@ultrasenses/configs-eslint"
+      "@ultrasenses/configs-eslint/main"
     ]
-  }
+  },
+  "prettier": "@ultrasenses/configs-prettier/main"
 }

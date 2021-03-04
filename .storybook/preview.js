@@ -43,7 +43,7 @@ export const parameters = {
 const themes = [
   {
     name: "Light",
-    backgroundColor: "#fff",
+    backgroundColor: "#ffffff",
   },
   {
     name: "Dark",
