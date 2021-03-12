@@ -7,13 +7,13 @@ Ultrasenses theme
 - Easy to use.
 - Uses [Roboto](https://fonts.google.com/specimen/Roboto) as main font and [Apple Colors](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/).
 
-## 🗃️ Version 1.0.0 contains
+## 📦 Modules
 
 - color
 - typography
 - media
 
-## 📦 Install
+## 🛠️ Installation
 
 ```
 npm i @ultrasenses/system-theme --save-dev
@@ -23,7 +23,7 @@ npm i @ultrasenses/system-theme --save-dev
 yarn add @ultrasenses/system-theme --dev
 ```
 
-## 🔨 Usage
+## 💻 Usage
 
 ### in Component.style.ts
 
@@ -40,6 +40,6 @@ export const StyledDiv = styled.div`
 `
 ```
 
-## 📄 License
+## 📑 License
 
 The project is licensed under the [Apache license 2.0](https://github.com/ultrasenses/ultrasenses-ui/blob/main/LICENSE).
