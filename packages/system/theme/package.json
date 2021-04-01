@@ -1,6 +1,6 @@
 {
   "name": "@ultrasenses/system-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ultrasenses theme",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
