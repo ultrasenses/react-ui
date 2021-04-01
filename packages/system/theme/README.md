@@ -5,7 +5,7 @@ Ultrasenses theme
 ## ✨ Features
 
 - Easy to use.
-- Uses [Roboto](https://fonts.google.com/specimen/Roboto) as main font and [Apple Colors](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/).
+- Uses [Heebo](https://fonts.google.com/specimen/Heebo) as main font and [Apple Colors](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/).
 
 ## 📦 Modules
 

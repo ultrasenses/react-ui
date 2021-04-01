@@ -5,6 +5,10 @@
 
 Ui themes and ⚛️ React components.
 
-## 📄 License
+## 📦 Packages
+
+- [@ultrasenses/system-theme](https://www.npmjs.com/package/@ultrasenses/system-theme)
+
+## 📑 License
 
 The project is licensed under the [Apache license 2.0](https://github.com/ultrasenses/ultrasenses-ui/blob/main/LICENSE).

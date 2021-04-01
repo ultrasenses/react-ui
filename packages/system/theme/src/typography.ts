@@ -6,7 +6,7 @@ type TypographyType<T, N extends string> = T & BaseTypography<N>;
 
 export type TypographyModel = TypographyType<"TypographyType", string>;
 
-const baseFontFamily = "Roboto, sans-serif";
+const baseFontFamily = "Heebo, sans-serif";
 
 const createStyleTypography = (
   fontFamily: string,
