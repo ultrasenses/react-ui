@@ -1,5 +1,5 @@
 {
-  "extends": "@ultrasenses/configs-typescript/ts-config.json",
+  "extends": "@ultrasenses/configs-typescript/ts-packages-config.json",
   "compilerOptions": {
     "outDir": "lib",
     "removeComments": false
