@@ -36,46 +36,57 @@ const text = {
   bold64: useTypography(64, 72, 700),
   medium64: useTypography(64, 72, 500),
   regular64: useTypography(64, 72, 400),
+  light64: useTypography(64, 72, 300),
 
   bold52: useTypography(52, 64, 700),
   medium52: useTypography(52, 64, 500),
   regular52: useTypography(52, 64, 400),
+  light52: useTypography(52, 64, 300),
 
   bold40: useTypography(40, 48, 700),
   medium40: useTypography(40, 48, 500),
   regular40: useTypography(40, 48, 400),
+  light40: useTypography(40, 48, 300),
 
   bold32: useTypography(32, 40, 700),
   medium32: useTypography(32, 40, 500),
   regular32: useTypography(32, 40, 400),
+  light32: useTypography(32, 40, 300),
 
   bold24: useTypography(24, 32, 700),
   medium24: useTypography(24, 32, 500),
   regular24: useTypography(24, 32, 400),
+  lightr24: useTypography(24, 32, 300),
 
   bold20: useTypography(20, 28, 700),
   medium20: useTypography(20, 28, 500),
   regular20: useTypography(20, 28, 400),
+  light20: useTypography(20, 28, 300),
 
   bold18: useTypography(18, 22, 700),
   medium18: useTypography(18, 22, 500),
   regular18: useTypography(18, 22, 400),
+  light18: useTypography(18, 22, 300),
 
   bold16: useTypography(16, 24, 700),
   medium16: useTypography(16, 24, 500),
   regular16: useTypography(16, 24, 400),
+  light16: useTypography(16, 24, 300),
 
   bold14: useTypography(14, 20, 700),
   medium14: useTypography(14, 20, 500),
   regular14: useTypography(14, 20, 400),
+  light14: useTypography(14, 20, 300),
 
   bold12: useTypography(12, 20, 700),
   medium12: useTypography(12, 20, 500),
   regular12: useTypography(12, 20, 400),
+  light12: useTypography(12, 20, 300),
 
   bold10: useTypography(10, 20, 700),
   medium10: useTypography(10, 20, 500),
   regular10: useTypography(10, 20, 400),
+  light10: useTypography(10, 20, 300),
 };
 
 export const typography = {
