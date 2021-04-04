@@ -1,6 +1,6 @@
 {
   "name": "@ultrasenses/system-theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ultrasenses theme",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@types/styled-components": "^5.1.7",
-    "@ultrasenses/configs-typescript": "^1.0.0",
+    "@ultrasenses/configs-typescript": "^1.0.2",
     "rimraf": "^3.0.2",
     "typescript": "4.1.5"
   },
