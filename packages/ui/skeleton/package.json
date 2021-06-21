@@ -1,12 +1,28 @@
 {
   "name": "@ultrasenses/ui-skeleton",
   "version": "1.0.0",
-  "license": "Apache-2.0",
+  "description": "Ultrasenses skeleton",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "entry": "src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ultrasenses/ultrasenses-ui.git",
+    "directory": "packages/configs/typescript"
+  },
+  "homepage": "https://github.com/ultrasenses/ultrasenses-ui#readme",
+  "bugs": {
+    "url": "https://github.com/ultrasenses/ultrasenses-ui/issues"
+  },
+  "author": "Ultrasenses <contact.ultrasenses@gmail.com>",
+  "license": "Apache-2.0",
+  "keywords": [
+    "skeleton",
+    "typescript",
+    "ultrasenses"
+  ],
   "scripts": {
-    "build": "tsc",
-    "prebuild": "rimraf ./lib"
+    "build": "rimraf ./lib && tsc"
   },
   "dependencies": {
     "react": "^17.0.2",
@@ -19,5 +35,8 @@
     "rimraf": "^3.0.2",
     "typescript": "^4.3.4"
   },
-  "entry": "src/index.ts"
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
